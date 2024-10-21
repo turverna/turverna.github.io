@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://turverna.github.io/turverna.txt.gz
+Sitemap: https://turverna.github.io/app/turverna.txt.gz
+Sitemap: https://turverna.github.io/assets/turverna.txt.gz
+Sitemap: https://turverna.github.io/css/turverna.txt.gz
+Sitemap: https://turverna.github.io/includes/turverna.txt.gz
+Sitemap: https://turverna.github.io/item/turverna.txt.gz
+Sitemap: https://turverna.github.io/src/turverna.txt.gz
